@@ -1,0 +1,16 @@
+{
+    "name": "CardAssembly",
+    "references": [
+        "GUID:6885fbfabb22070448753e35cc466b9c",
+        "GUID:9bc1dde8ddf9e04429b341cf9f927494"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FieldsAssembly",
+    "references": [
+        "GUID:6885fbfabb22070448753e35cc466b9c",
+        "GUID:c67a04ced1e2cff4eb6008dff543a06c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
